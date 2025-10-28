@@ -59,9 +59,16 @@ Originally built as a personal productivity tool and learning project, Simba is 
 
 ## Screenshots / Previews
 
-- #### Launcher Window with search Demo
+- #### Live Demo (Hotkey : ctrl + space)
+
+![Simba (Live Demo) (ctrl + space)](images/simba-demo.gif)
+
+
+- #### Search Results
 
 ![Launcher Window (ctrl + space)](images/img_screen.png)
+
+
 
 ## 🧠 Dictionary Integration (WordNet)
   
@@ -115,7 +122,7 @@ then convert using `tools/export_wordnet.py` (to be added)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/m4noj/simba-launcher.git
+git clone https://github.com/yourusername/simba-launcher.git
 cd simba-launcher
 ```
 
@@ -182,7 +189,7 @@ cp ~/.local/share/applications/simba-launcher.desktop  ~/.config/autostart/
 <br>
 
 
-## Future Roadmap
+## Future & Vision
 
 | Version  | Features Planned                                                                 |
 | -------- | -------------------------------------------------------------------------------- |
