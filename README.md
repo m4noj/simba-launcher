@@ -122,7 +122,7 @@ then convert using `tools/export_wordnet.py` (to be added)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/simba-launcher.git
+git clone https://github.com/m4noj/simba-launcher.git
 cd simba-launcher
 ```
 
