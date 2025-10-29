@@ -1,15 +1,15 @@
 <h1 align="center">🐾 Simba Launcher</h1>
 
 <p align="center">
-  <em>A minimal, elegant, and intelligent desktop launcher for Linux — built with Python (PyQt5).</em><br>
+  <em><b>A minimal, elegant, and intelligent desktop launcher for Linux — built with Python (PyQt5).</b></em><br>
   <em>Fast search. Offline dictionary. Beautiful design.</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-beta-blue" />
   <img src="https://img.shields.io/badge/python-3.10%2B-yellow" />
-  <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://img.shields.io/badge/platform-Linux-lightgrey" />
+  <img src="https://img.shields.io/badge/platform-Linux-teal" />
+  <img src="https://img.shields.io/badge/license-MIT-orange" />
 </p>
 <br>
 
@@ -68,9 +68,9 @@ Originally built as a personal productivity tool and learning project, Simba is 
 
 ![Launcher Window (ctrl + space)](images/img_screen.png)
 
-
-
 ## 🧠 Dictionary Integration (WordNet)
+
+<br>
   
 ![Dictionary (offline)](images/img_dictionary.png)
 
@@ -122,14 +122,14 @@ then convert using `tools/export_wordnet.py` (to be added)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/m4noj/simba-launcher.git
+git clone https://github.com/yourusername/simba-launcher.git
 cd simba-launcher
 ```
 
 ### 2. Create virtual environment (Optional)
 ```bash
 python3 -m venv simba
-source simba/bin/activate
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 ### 3. Edit `config.json`
