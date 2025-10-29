@@ -129,7 +129,7 @@ cd simba-launcher
 ### 2. Create virtual environment (Optional)
 ```bash
 python3 -m venv simba
-source venv/bin/activate
+source simba/bin/activate
 pip install -r requirements.txt
 ```
 ### 3. Edit `config.json`
